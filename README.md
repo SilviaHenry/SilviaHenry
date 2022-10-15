@@ -1,3 +1,5 @@
+[![@silviahenry's Holopin board](https://holopin.me/silviahenry)](https://holopin.io/@silviahenry)
+
 - 👋 Hi, I’m @SilviaHenry
 - 👀 I’m interested in freelance front-end projects.
 - 🌱 I’m currently studying anything I can get my hands on such as courses through Linux foundation which I got a scholarship for. I am also improving my JavaScript and React knowledge. As a wise person said "Developers are smart people who get bored very easily therefore they keep coming up with new improvements all the time just to entertain themselves." So that is what I do, play cat and mice game with JS :)
