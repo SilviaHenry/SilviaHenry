@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaSrcipt and React projects.
 - 📫 You can reach me on https://www.linkedin.com/in/silvia-henry/.
 
-[![@silviahenry's Holopin board](https://holopin.me/silviahenry)](https://holopin.io/@silviahenry)
 
 <!---
 SilviaHenry/SilviaHenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
